@@ -3,7 +3,7 @@
 ## 📊 **Auto EDA Tool - An Interactive Exploratory Data Analysis (EDA) Application in R**
 
 ### 🚀 **Overview**
-The **Auto EDA Tool** is an interactive web application built using **R Shiny** and **ggplot2**, designed to automate and simplify Exploratory Data Analysis (EDA) tasks. The application allows users to upload CSV files, select desired EDA operations, and visualize or summarize the results in an easy-to-use interface. The tool covers essential EDA functionalities such as:
+The **Auto EDA Tool** is an interactive web application built using **R Shiny** and **ggplot2**, designed to automate and simplify Exploratory Data Analysis(EDA) tasks. The application allows users to upload CSV files, select desired EDA operations, and visualize or summarize the results in an easy-to-use interface. The tool covers essential EDA functionalities such as:
 - Data Visualization (Histogram, Scatter Plot, Box Plot, Density Plot)
 - Summarizing Data
 - Outlier Detection
